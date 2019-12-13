@@ -21,3 +21,15 @@ Use the TVMaze API to list Batman tv shows on page, and when user clicked a show
 - Render app on server (Server Side Rendering)  (** Will be considered a plus **)
 - Deploy the app up and running to a server.   (** Will be considered a plus **)
 - Send the project through a VCS so we can track your commit history.
+
+## Additional Features
+
+- You can create a search page that list movies by searched criteria.
+- You can limit the movies shown on page by 10 and paginate the remaining results.
+
+
+## Hints
+
+- Immutability
+- Debouncing
+- Scoped styling
